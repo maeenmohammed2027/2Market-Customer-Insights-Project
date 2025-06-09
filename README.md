@@ -39,7 +39,7 @@ The analysis was conducted using:
 - **Excel**: PivotTables, formulas, exploratory analysis  
 - **PostgreSQL**: SQL queries for grouped analysis and aggregations  
 - **Tableau**: Dashboard creation, filtering, and KPI visuals  
-- **PowerPoint**: Presentation of key findings and recommendations
+- **PowerPoint**: Presentation of key findings and recommendations  
 
 ---
 
@@ -47,8 +47,8 @@ The analysis was conducted using:
 
 - `2Market_Report_MaeenMohammed.pdf` – Final report with insights, visuals, and business recommendations  
 - `visuals/` – Tableau dashboard screenshots  
+- `SQL_Queries/2Market_Analysis_Queries.sql` – Reconstructed SQL scripts based on report insights  
 - `Dashboards/` – (Optional) Tableau `.twbx` files if added  
-- `SQL_Queries/` – (Optional) SQL scripts used for PostgreSQL
 
 ---
 
@@ -88,7 +88,7 @@ The analysis was conducted using:
 
 **Maeen Mohammed**  
 Data Analyst | Former UN Staff | LSE Analytics Career Accelerator  
-[www.linkedin.com/in/
-maeen-mohammed-2910a9a2] • [GitHub](https://github.com/maeenmohammed2027)
+[LinkedIn](https://www.linkedin.com/in/maeen-mohammed-2910a9a2) • [GitHub](https://github.com/maeenmohammed2027)
+
 
 
