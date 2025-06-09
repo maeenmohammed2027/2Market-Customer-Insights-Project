@@ -48,7 +48,7 @@ The analysis was conducted using:
 - `2Market_Report_MaeenMohammed.pdf` – Final report with insights, visuals, and business recommendations  
 - `visuals/` – Tableau dashboard screenshots  
 - `SQL_Queries/2Market_Analysis_Queries.sql` – Reconstructed SQL scripts based on report insights  
-- `Dashboards/` – (Optional) Tableau `.twbx` files if added  
+  
 
 ---
 
